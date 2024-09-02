@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakibul Hasan</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
-<img align='right' alt='coding' width='400' src='![image](https://github.com/user-attachments/assets/50294828-3cdc-4145-b15d-4be6be5e2f84)
+<img align='right' alt='coding' width='400' src='![download](https://github.com/user-attachments/assets/b9c2a6a5-052b-4e09-ab93-4a67490ff683)
 '>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibulbhuiyan&label=Profile%20views&color=0e75b6&style=flat" alt="rakibulbhuiyan" /> </p>
 
