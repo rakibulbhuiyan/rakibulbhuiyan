@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakibul Hasan</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
-<img align='right' alt='coding' width='400' src="[![image](https://github.com/user-attachments/assets/3ed69440-8c6e-4141-b3de-91b00e3978cb)](https://www.google.com/imgres?q=web%20developer%20animated%20coding%20gif&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F54%2Fe3%2F7d%2F54e37d8074ebcde1d96c77d7b2a7f310.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding-animations--126663808259167697%2F&docid=2_EEXl1mO124lM&tbnid=Aob19zh3U0GdRM&vet=12ahUKEwiU6_PG7qOIAxVmSGwGHfZoAtIQM3oFCIMBEAA..i&w=680&h=428&hcb=2&ved=2ahUKEwiU6_PG7qOIAxVmSGwGHfZoAtIQM3oFCIMBEAA)
-">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibulbhuiyan&label=Profile%20views&color=0e75b6&style=flat" alt="rakibulbhuiyan" /> </p>
 
 
